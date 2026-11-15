@@ -33,8 +33,16 @@ The project combines **data cleaning, exploratory data analysis, statistical hyp
 
 ## 📂 Dataset
 
-The project uses the **Hotel Booking Demand** dataset containing hotel reservation records and booking characteristics.
+## 📂 Dataset
 
+This project uses the **Hotel Booking Demand** dataset, containing booking information for City Hotel and Resort Hotel.
+
+**Dataset Source:** [Kaggle — Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?utm_source=chatgpt.com)
+
+**Original Research Paper:** *Hotel Booking Demand Datasets* by Nuno Antonio, Ana de Almeida, and Luis Nunes, published in *Data in Brief* (2019).
+
+
+> **Note:** The dataset is used for educational and portfolio analysis purposes. The analysis in this repository is my own work.
 Important variables include:
 
 - Hotel type
